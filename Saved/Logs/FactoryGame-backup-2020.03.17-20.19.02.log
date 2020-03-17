@@ -1,0 +1,1314 @@
+﻿Log file open, 03/17/20 21:14:38
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 46 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UEOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin EOSBase
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin SocketSubsystemEpic
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++FactoryGame+rel-main-ea-update-0.3.3-CL-117050
+LogInit: Engine Version: 4.22.3-117050+++FactoryGame+rel-main-ea-update-0.3.3
+LogInit: Compatible Engine Version: 4.22.0-5660361+++FactoryGame+rel-main-ea-update-0.3.3
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Mar 10 2020 20:22:32
+LogInit: Compiled with Visual C++: 19.16.27035.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-ea-update-0.3.3
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=90ddbd974bdc4eec8528111692ebc4cf -AUTH_TYPE=exchangecode -epicapp=CrabEA -epicenv=Prod -EpicPortal -epicusername=BigMisio2 -epicuserid=2f96fbc862b4495da389558aeb5288ab -epiclocale=pl
+LogInit: Base Directory: C:/Gry/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.HZBOcclusion:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.050000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.TemporalAACurrentFrameWeight:0.2]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.DistanceFields.DefaultVoxelDensity:0.05]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.17-20.14.38:409][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.17-20.14.38:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.17-20.14.38:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.17-20.14.38:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.17-20.14.38:412][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.03.17-20.14.38:412][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.03.17-20.14.38:416][  0]LogHAL: Display: Platform has ~ 16 GB [17085886464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.17-20.14.38:416][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.17-20.14.38:416][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.ShadowQuality:4]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.5]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:30]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.BloomQuality:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1300]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.17-20.14.38:416][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.7]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[grass.DensityScale:0.75]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/wojci/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.XGEShaderCompile:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[t.FPSChart.OpenFolderOnDump:0]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[r.XGEShaderCompile.Mode:1]]
+[2020.03.17-20.14.38:417][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.17-20.14.38:417][  0]LogInit: Computer: WOJTEK-PC
+[2020.03.17-20.14.38:417][  0]LogInit: User: wojci
+[2020.03.17-20.14.38:417][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.03.17-20.14.38:417][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.17-20.14.38:417][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.17-20.14.38:417][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.03.17-20.14.38:417][  0]LogMemory: Process Physical Memory: 70.13 MB used, 70.13 MB peak
+[2020.03.17-20.14.38:417][  0]LogMemory: Process Virtual Memory: 88.53 MB used, 88.53 MB peak
+[2020.03.17-20.14.38:417][  0]LogMemory: Physical Memory: 4021.25 MB used,  12273.12 MB free, 16294.37 MB total
+[2020.03.17-20.14.38:417][  0]LogMemory: Virtual Memory: 4439.27 MB used,  134213288.00 MB free, 134217728.00 MB total
+[2020.03.17-20.14.38:427][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2020.03.17-20.14.38:427][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2020.03.17-20.14.38:429][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2020.03.17-20.14.38:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2020.03.17-20.14.38:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2020.03.17-20.14.38:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.03.17-20.14.38:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2020.03.17-20.14.38:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemMcp/Content/Localization/OnlineSubsystemMcp/en-US-POSIX/OnlineSubsystemMcp.locres' could not be opened for reading!
+[2020.03.17-20.14.38:453][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.17-20.14.38:453][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.17-20.14.38:468][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.17-20.14.38:558][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.03.17-20.14.38:558][  0]LogD3D11RHI:       8031/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.17-20.14.38:559][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.17-20.14.38:559][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.17-20.14.38:559][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.17-20.14.38:563][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.17-20.14.38:563][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.17-20.14.38:563][  0]LogWindows: EnumDisplayDevices:
+[2020.03.17-20.14.38:563][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.03.17-20.14.38:563][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.03.17-20.14.38:563][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.03.17-20.14.38:563][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.03.17-20.14.38:563][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.17-20.14.38:563][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.03.17-20.14.38:563][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.03.17-20.14.38:563][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.03.17-20.14.38:563][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.03.17-20.14.38:622][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.17-20.14.38:630][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.17-20.14.38:630][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.17-20.14.38:630][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.17-20.14.38:643][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.17-20.14.38:643][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2020.03.17-20.14.38:643][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2020.03.17-20.14.38:643][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2020.03.17-20.14.38:644][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.03.17-20.14.38:645][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.03.17-20.14.38:654][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.17-20.14.38:677][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.17-20.14.38:677][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.17-20.14.38:710][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2020.03.17-20.14.38:710][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2020.03.17-20.14.38:710][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.03.17-20.14.38:710][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2020.03.17-20.14.38:710][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2020.03.17-20.14.38:710][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.03.17-20.14.38:710][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2020.03.17-20.14.38:710][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2020.03.17-20.14.38:710][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2020.03.17-20.14.38:710][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2020.03.17-20.14.38:713][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2020.03.17-20.14.38:715][  0]LogTextLocalizationManager: Compacting localization data took   0.28ms
+[2020.03.17-20.14.38:751][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2020.03.17-20.14.38:816][  0]LogStreaming: Display: Flushing async loaders.
+[2020.03.17-20.14.38:817][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 2 prioritized culture(s) in 0.000062 seconds
+[2020.03.17-20.14.38:817][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2020.03.17-20.14.38:821][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.03.17-20.14.38:828][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3761731716)
+[2020.03.17-20.14.39:562][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2020.03.17-20.14.39:563][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2020.03.17-20.14.39:684][  0]LogInit: Audiokinetic Audio Device initialized.
+[2020.03.17-20.14.40:173][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.03.17-20.14.40:173][  0]LogMoviePlayer: Initializing movie player
+[2020.03.17-20.14.40:214][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2020.03.17-20.14.40:214][  0]LogStreaming: Warning: Failed to read file 'C:/Users/wojci/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2020.03.17-20.14.40:590][  0]LogSocketSubsystemEpic: FEpicSocketsModule::StartupModule()
+[2020.03.17-20.14.40:590][  0]LogEpicP2P: FEpicSocketsModule::StartupModule()
+[2020.03.17-20.14.40:600][  0]LogUObjectArray: 146597 objects as part of root set at end of initial load.
+[2020.03.17-20.14.40:600][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.03.17-20.14.40:600][  0]LogUObjectAllocator: 30439752 out of 0 bytes used by permanent object pool.
+[2020.03.17-20.14.40:600][  0]LogUObjectArray: CloseDisregardForGC: 146597/146597 objects in disregard for GC pool
+[2020.03.17-20.14.40:671][  0]UEOSLog: [EOS SDK | Plugin] Init Success!
+[2020.03.17-20.14.40:701][  0]UEOSLog: [EOS SDK | Plugin] Platform Create - Success!
+[2020.03.17-20.14.40:701][  0]LogEngine: Initializing Engine...
+[2020.03.17-20.14.40:712][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.17-20.14.40:753][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.17-20.14.40:760][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.17-20.14.40:770][  0]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.03.17-20.14.40:793][  0]LogInit: FAudioDevice initialized.
+[2020.03.17-20.14.40:804][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2020.03.17-20.14.40:804][  0]LogInit: Texture streaming: Enabled
+[2020.03.17-20.14.40:806][  0]LogSave: Display: Migrated 0 save files from old save directory [C:/Users/wojci/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/wojci/AppData/Local/FactoryGame/Saved/SaveGames/2f96fbc862b4495da389558aeb5288ab/]
+[2020.03.17-20.14.40:806][  0]LogSave: Display: Created 0 backups old save directory [C:/Users/wojci/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/wojci/AppData/Local/FactoryGame/Saved/SaveGames/2f96fbc862b4495da389558aeb5288ab/]
+[2020.03.17-20.14.40:808][  0]GameAnalyticsModule: Display: Loaded GUID 97BBC440-45E3-C0F2-4BB2-538C7D700FEB
+[2020.03.17-20.14.40:808][  0]UEOSLog: Warning: [EOS SDK | Plugin] Begin Player Session...
+[2020.03.17-20.14.40:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-20.14.40:809][  0]LogInit: Display: Game Engine Initialized.
+[2020.03.17-20.14.40:809][  0]LogNetVersion: Set ProjectVersion to ++FactoryGame+rel-main-ea-update-0.3.3-CL-117050. Version Checksum will be recalculated on next use.
+[2020.03.17-20.14.40:809][  0]LogInit: Display: Starting Game.
+[2020.03.17-20.14.40:809][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2020.03.17-20.14.40:824][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2020.03.17-20.14.40:838][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.03.17-20.14.40:955][  0]LogAIModule: Creating AISystem for world MenuScene_02
+[2020.03.17-20.14.40:955][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2020.03.17-20.14.40:957][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_02.MenuScene_02 up for play (max tick rate 0) at 2020.03.17-21.14.40
+[2020.03.17-20.14.40:962][  0]LogWorld: Bringing up level for play took: 0.005116
+[2020.03.17-20.14.40:962][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2020.03.17-20.14.40:962][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.17-20.14.40:962][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.17-20.14.40:962][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.17-20.14.40:993][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2020.03.17-20.14.40:995][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "Jump_Drift" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "Crouch" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "PrimaryFire" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "SecondaryFire" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "Use" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "ToggleBuildGun" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "inventory" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "AttentionPing" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "ResourceScanner_ToggleVehicleRecording" was found
+[2020.03.17-20.14.40:996][  0]LogInput: No key for axis inAxis = "EmoteWheel" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "Reload" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "ToggleSprint" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "BuildGunScrollUp_PhotoModeFOVUp" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "BuildGunScrollDown_PhotoModeFOVDown" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "ToggleDismantle" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "ToggleMap_BuildGunNoSnapMode" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "OpenCodex" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "Flashlight" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "Chat" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "BuildGunSnapToGuideLines" was found
+[2020.03.17-20.14.40:997][  0]LogInput: No key for axis inAxis = "PhotoMode" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "TogglePhotoModeUIVisibility" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "BuildingSample" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut1" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut2" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut3" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut4" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut5" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut6" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut7" was found
+[2020.03.17-20.14.40:998][  0]LogInput: No key for axis inAxis = "Shortcut8" was found
+[2020.03.17-20.14.40:999][  0]LogInput: No key for axis inAxis = "Shortcut9" was found
+[2020.03.17-20.14.40:999][  0]LogInput: No key for axis inAxis = "Shortcut10" was found
+[2020.03.17-20.14.41:000][  0]LogConfig: Error: Unidentified category type
+[2020.03.17-20.14.41:012][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2020.03.17-20.14.41:012][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.17-20.14.41:012][  0]LogLoad: Took 0.187632 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_02)
+[2020.03.17-20.14.41:033][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.03.17-20.14.41:033][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.03.17-20.14.41:033][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.03.17-20.14.41:033][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.03.17-20.14.41:033][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.03.17-20.14.41:109][  0]LogSteamController: SteamController is not available
+[2020.03.17-20.14.43:810][  0]LogLoad: (Engine Initialization) Total time: 6.34 seconds
+[2020.03.17-20.14.43:810][  0]LogContentStreaming: Texture pool size now 1300 MB
+[2020.03.17-20.14.43:818][  1]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2020.03.17-20.14.43:819][  1]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2020.03.17-20.14.43:821][  1]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2020.03.17-20.14.43:851][  2]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:1).
+[2020.03.17-20.14.43:851][  2]LogOnline: OSS: Service status updated [Normal] -> [Connected]
+[2020.03.17-20.14.43:851][  2]LogOnline: OSS: New XMPP connection configured to Server=[wss://xmpp-service-prod.ol.epicgames.com] Port=[443]
+[2020.03.17-20.14.43:851][  2]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2020.03.17-20.14.43:853][  2]LogStaticMesh: Allocated 512x242x64 distance field atlas = 7.6Mb, with 124 objects containing 4.6Mb backing data
+[2020.03.17-20.14.43:990][ 34]LogOnlineIdentity: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2020.03.17-20.14.45:564][442]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2020.03.17-20.14.45:564][442]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2020.03.17-20.14.45:564][442]LogTemp: Login status changed from NotLoggedIn to LoggedIn
+[2020.03.17-20.14.45:564][442]LogEpicP2P: [0][DetermineNATType] Starting NAT Detection
+[2020.03.17-20.14.45:576][442]LogTemp: Connecting NetId 2f96fbc862b4495da389558aeb5288ab
+[2020.03.17-20.14.45:576][442]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 2f96fbc862b4495da389558aeb5288ab:prod.ol.epicgames.com:V2:Coffee Stain - Satisfactory (Diesel - Crab):WIN::AC721F6E4207113185ED17B07764FA8F loggedin
+[2020.03.17-20.14.45:751][486]UEOSLog: EOS_Connect_Callback::EOS_Success
+[2020.03.17-20.14.45:751][486]UEOSLog: OnEOSConnectSuccessful
+[2020.03.17-20.14.45:751][486]LogTemp: MapExternalUserIdToProductUserId: 2f96fbc862b4495da389558aeb5288ab -> 000296957f194f3d810d88b8d3b268f9
+[2020.03.17-20.14.45:751][486]LogTemp: MapExternalUserIdToProductUserId: ADD
+[2020.03.17-20.14.48:834][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-20.14.49:246][396]LogEpicP2P: Warning: [0] NAT Type was invalid/unknown. Value=[2]
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0: request has been successfully processed. URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, HTTP code: 503, content length: 0, actual payload size: 0
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0 Response Header Server: awselb/2.0
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0 Response Header Date: Tue, 17 Mar 2020 20:15:06 GMT
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Type: text/plain; charset=utf-8
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Length: 0
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: 000002691DF30EC0 Response Header Connection: keep-alive
+[2020.03.17-20.15.08:532][376]LogHttp: Warning: Retry 1 on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0: request has been successfully processed. URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, HTTP code: 503, content length: 0, actual payload size: 0
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0 Response Header Server: awselb/2.0
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0 Response Header Date: Tue, 17 Mar 2020 20:15:06 GMT
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Type: text/plain; charset=utf-8
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Length: 0
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: 000002691DF30EC0 Response Header Connection: keep-alive
+[2020.03.17-20.15.08:683][414]LogHttp: Warning: Lockout of 5.000000s on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.13:686][701]LogHttp: Warning: Retry 2 on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0: request has been successfully processed. URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, HTTP code: 503, content length: 0, actual payload size: 0
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0 Response Header Server: awselb/2.0
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0 Response Header Date: Tue, 17 Mar 2020 20:15:11 GMT
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Type: text/plain; charset=utf-8
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Length: 0
+[2020.03.17-20.15.13:810][731]LogHttp: Warning: 000002691DF30EC0 Response Header Connection: keep-alive
+[2020.03.17-20.15.13:812][732]LogHttp: Warning: Lockout of 7.500000s on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.21:314][675]LogHttp: Warning: Retry 3 on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0: request has been successfully processed. URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, HTTP code: 503, content length: 0, actual payload size: 0
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0 Response Header Server: awselb/2.0
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0 Response Header Date: Tue, 17 Mar 2020 20:15:19 GMT
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Type: text/plain; charset=utf-8
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Length: 0
+[2020.03.17-20.15.21:440][709]LogHttp: Warning: 000002691DF30EC0 Response Header Connection: keep-alive
+[2020.03.17-20.15.21:442][710]LogHttp: Warning: Lockout of 10.000000s on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.21:610][755]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.03.17-20.15.21:610][755]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.03.17-20.15.21:610][755]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?sessionName=Nowy 1?Visibility=SV_FriendsOnly?loadgame=Nowy 1_autosave_0?listen
+[2020.03.17-20.15.21:621][755]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?sessionName=Nowy 1?Visibility=SV_FriendsOnly?loadgame=Nowy 1_autosave_0?listen
+[2020.03.17-20.15.21:623][755]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.15.21:642][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.03.17-20.15.21:644][755]LogStreaming: Display: Flushing async loaders.
+[2020.03.17-20.15.22:280][755]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach requested by async loading code. NameToLoad: /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach
+[2020.03.17-20.15.22:280][755]LogStreaming: Error: Found 0 dependent packages...
+[2020.03.17-20.15.22:293][755]LogAIModule: Creating AISystem for world Persistent_Level
+[2020.03.17-20.15.22:295][755]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGFoliageRemoval | ClassInfo: CullDistance: 20000.00 ReplicationPeriodFrame: 64 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGItemPickup | ClassInfo: CullDistance: 25000.00 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: ReplicationGraphDebugActor | ClassInfo: 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: LobbyBeaconPlayerState | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: LobbyBeaconState | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGActorRepresentationManager | ClassInfo: ReplicationPeriodFrame: 4 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGAdminInterface | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGHologram | ClassInfo: 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGBuildableHologram | ClassInfo: 
+[2020.03.17-20.15.22:295][755]LogTemp: Display: Class: FGFactoryHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorAttachmentHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGAttachmentSplitterHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGAttentionPingActor | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGAudioVolumeSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildable | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableFactory | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableConveyorAttachment | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableAttachmentMerger | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableAttachmentSplitter | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableManufacturer | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableAutomatedWorkBench | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableCheatFluidSink | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableCheatFluidSpawner | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableConverter | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableConveyorBase | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableConveyorBelt | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableConveyorLift | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableDecor | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableDockingStation | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableFactoryBuilding | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableFloor | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableFoundation | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableGenerator | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableGeneratorFuel | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableGeneratorGeoThermal | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableGeneratorNuclear | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableHubTerminal | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipeBase | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipeHyper | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipeline | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipelineAttachment | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipelineJunction | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipelinePump | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePoleBase | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipelineSupport | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipePart | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipeHyperPart | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePipeReservoir | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePole | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableWall | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePoweredWall | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildablePowerPole | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRadarTower | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 20 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRailroadBridge | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRailroadSignal | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableTrainPlatform | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRailroadStation | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRailroadSwitchControl | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRailroadTrack | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRamp | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableResourceExtractor | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableResourceSink | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableResourceSinkShop | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableRoad | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableSignWall | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableSpaceElevator | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableSpeedSign | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableSplitterSmart | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableStair | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableStandaloneSign | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableStorage | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableTradingPost | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableTrainPlatformCargo | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableTrainPlatformEmpty | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableWalkway | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableWindTurbine | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildableWire | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGEquipment | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildGun | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGEquipmentAttachment | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGBuildGunAttachment | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGWeapon | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGC4Dispenser | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGC4Explosive | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGCentralStorageContainer | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGCentralStorageSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGChainsaw | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGChatManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGCircuitSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGWeaponInstantFire | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGColorGun | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConsumableEquipment | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGSplineHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorBeltHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorLiftHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorMultiPoleHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGPoleHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorPoleHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGConveyorPoleStackable | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGInteractActor | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGCrate | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDecorationActor | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDecorHologram | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDestructibleActor | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGProjectile | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDestructiveProjectile | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDowsingStick | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDowsingStickAttachment | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGDropPod | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGEquipmentChild | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGEquipmentDecoration | ClassInfo: 
+[2020.03.17-20.15.22:296][755]LogTemp: Display: Class: FGEquipmentStunSpear | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFactoryBuildingHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFloorHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFoliagePickup | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFoliageRemovalSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFoundationHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGFoundationSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGamePhaseManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: GameStateBase | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: GameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGasMask | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGasMaskAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGasPillar | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceExtractorHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGeoThermalGeneratorHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGGolfCartDispenser | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGHookshot | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGJetPack | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGJetPackAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGJumpingStilts | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGJumpingStiltsAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGManta | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGMapManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGNobeliskDetonator | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWeaponAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGNobeliskDetonatorAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGNobeliskExplosive | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGNobeliskExplosiveAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGObjectScanner | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGObjectScannerAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGParachute | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGParachuteAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipeBuilderTrail | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipeHyperStart | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipelineAttachmentHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipelineHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipelineJunctionHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipelineSupportHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipePartHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipeReservoirHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPipeSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPortableMiner | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPortableMinerDispenser | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWallHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPoweredWallHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGPowerPoleHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRadioactivitySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRailroadBridgeHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRailroadSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRailroadTrackHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGVehicleHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRailroadVehicleHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRecipeManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_BuildableFactory | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_CargoPlatform | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_DockingStation | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_GeneratorFuel | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_GeneratorNuclear | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_Manufacturing | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGReplicationDetailActor_Storage | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResearchManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceNode | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceDeposit | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceMiner | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceNodeGeyser | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceScanner | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGResourceSinkSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGRoadHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGSchematicManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGSpaceElevatorHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGSporeFlower | ClassInfo: CullDistance: 25000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGStackableStorageHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGStairHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGStandaloneSignHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGStorySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGSuitBase | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGSuitBaseAttachment | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTimeOfDaySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGToolBelt | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTradingPostHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTrain | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTrainPlatformHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTrainStationHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTrainStationIdentifier | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGTutorialIntroManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGUnlockSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWalkwayHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWallAttachmentHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWeaponAttachmentProjectile | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWeaponChild | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWeaponProjectileFire | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWheeledVehicleHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWireHologram | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: WorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: FGWorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: ARSharedWorldGameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: LevelSequenceActor | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: LevelScriptActor | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: MatineeActor | ClassInfo: ReplicationPeriodFrame: 20 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: MatineeActorCameraAnim | ClassInfo: ReplicationPeriodFrame: 20 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: RadialForceActor | ClassInfo: ReplicationPeriodFrame: 200 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: ServerStatReplicator | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: BP_PortableMiner_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: Attach_PortableMinerDispenser_C | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: Equip_PortableMinerDispenser_C | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: BP_AttentionPingActor_C | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: BP_ConsumeableEquipmentAttachment_C | ClassInfo: 
+[2020.03.17-20.15.22:297][755]LogTemp: Display: Class: BP_ConsumeableEquipment_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_Chainsaw_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_Chainsaw_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_VehicleTargetPoint_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_GolfCartDispenser_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_GolfCartDispenser_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_JetPack_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_JetPack_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_RebarGunProjectile_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: EquipChild_JumpingStilts_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_JumpingStilts_R_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_JumpingStilts_L_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_JumpingStilts_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_RebarGun_Projectile_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_Rifle_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_Rifle_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_ShockShank_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_ShockShank_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_StunSpear_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_StunSpear_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_SpaceElevator_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_GeneratorFuel_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_GeneratorIntegratedBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_WorkBenchIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_HubTerminal_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_StorageIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_TradingPost_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_GasMask_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_HazmatSuit_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_HazmatSuit_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_GasMask_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_Crate_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_ConstructorMk1_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_FoilagePickup_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_ConveyorPole_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 0 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Holo_ConveyorBelt_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_ConveyorBeltMk1_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 7 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_PowerPoleMk1_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Holo_PowerLine_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_PowerLine_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_BuildableSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_RailroadSwitchControl_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_WaterPump_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_MinerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_SmelterMk1_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_StorageContainerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_Workshop_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_GeneratorBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_StartingPod_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Build_WorkBench_C | ClassInfo: CullDistance: 75000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_UnlockSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_SchematicManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_GamePhaseManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ResearchManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_TutorialIntroManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_TimeOfDaySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_StorySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_RailroadSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_RadioactiveSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_CircuitSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ChatManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_BuildGun_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_ResourceMiner_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Attach_ResourceScanner_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ResourceScanner_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Equip_ResourceMiner_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_BuildGun_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ResourceNodeGeyser_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ResourceNode_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_ResourceDeposit_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_Manta_C | ClassInfo: CullDistance: 15000.00 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: Persistent_Level_C | ClassInfo: 
+[2020.03.17-20.15.22:298][755]LogTemp: Display: Class: BP_GameState_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2020.03.17-20.15.22:298][755]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.03.17-20.15.22:298][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.03.17-20.15.22:298][755]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration_2) is flushing async loading
+[2020.03.17-20.15.22:996][755]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Worklevel_Exploration_02) is flushing async loading
+[2020.03.17-20.15.23:002][755]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration) is flushing async loading
+[2020.03.17-20.15.23:391][755]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2020.03.17-21.15.23
+[2020.03.17-20.15.24:338][755]LogGame: Read Raw Data: 0.000 seconds
+[2020.03.17-20.15.24:364][755]LogGame: Decompression: 0.022 seconds
+[2020.03.17-20.15.24:372][755]LogReplicationGraph: Warning: Spatialization Rebuild caused by: /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Build_WorkBenchIntegrated_C_2 at X=-55875.590 Y=236441.188 Z=-3799.843. New Bias: X=-105875.594 Y=-15000.000. IsStatic: 1
+[2020.03.17-20.15.25:097][755]LogNet: Display: Char_Player_C_3 ClassRepPolicy = 6
+[2020.03.17-20.15.25:098][755]LogNet: Display: Char_Player_C_1 ClassRepPolicy = 6
+[2020.03.17-20.15.25:332][755]LogGame: Warning: BP_Truck_C_0::PostInitializeComponents found more than 1 work bench!
+[2020.03.17-20.15.25:333][755]LogGame: Warning: BP_Truck_C_1::PostInitializeComponents found more than 1 work bench!
+[2020.03.17-20.15.25:803][755]LogSave: Warning: ========= Load error summary =========
+[2020.03.17-20.15.25:803][755]LogSave: Warning: Found 0 Unknown Classes, 0 Unknown Levels and 3 Unknown Objects
+[2020.03.17-20.15.25:803][755]LogSave: Warning: ========= Unknown Classes =========
+[2020.03.17-20.15.25:803][755]LogSave: Warning: ========= Unknown Levels =========
+[2020.03.17-20.15.25:803][755]LogSave: Warning: ========= Unknown Objects =========
+[2020.03.17-20.15.25:803][755]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_BuildGun_C_0
+[2020.03.17-20.15.25:803][755]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_ResourceScanner_C_0
+[2020.03.17-20.15.25:803][755]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.Equip_ResourceMiner_C_0
+[2020.03.17-20.15.25:803][755]LogGame: World Serialization (load): 1.440 seconds
+[2020.03.17-20.15.25:950][755]LogSave: Warning: Warning, found 9 nullpointers in mAvailableRecipes during load
+[2020.03.17-20.15.25:967][755]LogNet: Display: Char_Player_C_3 ClassRepPolicy = 6
+[2020.03.17-20.15.25:967][755]LogNet: Display: Char_Player_C_1 ClassRepPolicy = 6
+[2020.03.17-20.15.25:968][755]LogWorld: Bringing up level for play took: 2.669306
+[2020.03.17-20.15.25:968][755]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (1481952) to: (1048576)
+[2020.03.17-20.15.26:015][755]LogOnlineSession: MCP: Player 2f96fbc862b4495da389558aeb5288ab already registered in session GameSession
+[2020.03.17-20.15.26:020][755]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.15.26:020][755]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.17-20.15.26:020][755]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.17-20.15.26:574][755]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.03.17-20.15.26:574][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/master_foliage.master_foliage: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:575][755]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.03.17-20.15.26:575][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_banana.leaves_banana: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:594][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:594][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a.rocks_small_a: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:595][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:595][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_b.rocks_small_b: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:596][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:596][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c_vertical_moss.rocks_small_c_vertical_moss: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:596][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:596][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a2.rocks_small_a2: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:624][755]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.03.17-20.15.26:624][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_fern.leaves_fern: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:625][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:625][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c.rocks_small_c: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.26:626][755]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.03.17-20.15.26:626][755]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_e.rocks_small_e: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.17-20.15.27:172][755]LogMaterial: Warning: Material /Game/FactoryGame/Resource/RawResources/Material/MM_ResourceNode.MM_ResourceNode missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2020.03.17-20.15.27:172][755]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2020.03.17-20.15.27:277][755]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.17-20.15.27:277][755]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.15.27:278][755]LogFactory: Warning: Put down failed because we where never equipped.
+[2020.03.17-20.15.27:278][755]LogFactory: Warning: Put down failed because we where never equipped.
+[2020.03.17-20.15.28:039][755]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FactoryGame/Buildable/-Shared/Particle/NewBuildingPing.NewBuildingPing_C'
+[2020.03.17-20.15.28:050][755]LogGame: Copying 0 recipes from old save format to new.
+[2020.03.17-20.15.28:337][755]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_126' which is static to it. Aborting.
+[2020.03.17-20.15.28:337][755]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_127' which is static to it. Aborting.
+[2020.03.17-20.15.28:337][755]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_128' which is static to it. Aborting.
+[2020.03.17-20.15.28:337][755]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_129' which is static to it. Aborting.
+[2020.03.17-20.15.28:337][755]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_130' which is static to it. Aborting.
+[2020.03.17-20.15.28:398][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_0', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:399][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_1', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:399][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_2', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:399][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_3', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:400][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_4', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:400][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_5', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:400][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_12', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:400][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_13', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:401][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_9', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.28:401][755]LogFactory: Warning: No leg sockets specified on 'Build_WaterPump_C_10', component 'FGFactoryLegs'. Consider adding sockets or removing component.
+[2020.03.17-20.15.29:032][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:032][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_0
+[2020.03.17-20.15.29:032][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_0::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:032][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:032][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_1
+[2020.03.17-20.15.29:033][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_1::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:033][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:033][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_2
+[2020.03.17-20.15.29:033][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_2::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:033][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:033][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_3
+[2020.03.17-20.15.29:033][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_3::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:033][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:033][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_11
+[2020.03.17-20.15.29:033][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_11::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:033][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:033][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_02_C_10
+[2020.03.17-20.15.29:033][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_02_C_10::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:033][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:033][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_01_C_1
+[2020.03.17-20.15.29:034][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_01_C_1::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:034][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:034][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Ramp_Diagonal_8x2_01_C_0
+[2020.03.17-20.15.29:034][755]LogGame: Warning: Build_Ramp_Diagonal_8x2_01_C_0::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:252][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:252][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Wall_Window_8x4_02_C_18
+[2020.03.17-20.15.29:252][755]LogGame: Warning: Build_Wall_Window_8x4_02_C_18::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:252][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:252][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Wall_Window_8x4_02_C_12
+[2020.03.17-20.15.29:252][755]LogGame: Warning: Build_Wall_Window_8x4_02_C_12::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:252][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:252][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Wall_Window_8x4_02_C_16
+[2020.03.17-20.15.29:252][755]LogGame: Warning: Build_Wall_Window_8x4_02_C_16::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.29:252][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.29:252][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_Wall_Window_8x4_02_C_17
+[2020.03.17-20.15.29:253][755]LogGame: Warning: Build_Wall_Window_8x4_02_C_17::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.30:164][755]LogEquipment: Warning: ArmSlot::SetOverrideEquipment, called twice with same equipment 'nullpeter'.
+[2020.03.17-20.15.30:164][755]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2020.03.17-20.15.30:164][755]AnimBlueprintLog: Warning: SLOTNODE: 'LeftArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2020.03.17-20.15.30:164][755]AnimBlueprintLog: Warning: SLOTNODE: 'RightArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2020.03.17-20.15.30:166][755]LogBehaviorTree: Warning: > Failed to find key 'PanicLocation' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Wildlife/SpaceRabbit/AI/BB_SpaceRabbit.BB_SpaceRabbit. BB Key Selector will be set to 'Invalid'
+[2020.03.17-20.15.30:441][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:441][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_0
+[2020.03.17-20.15.30:441][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:441][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_1
+[2020.03.17-20.15.30:441][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:441][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_6
+[2020.03.17-20.15.30:442][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:442][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_21
+[2020.03.17-20.15.30:442][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:442][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_22
+[2020.03.17-20.15.30:442][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:442][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_11
+[2020.03.17-20.15.30:442][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:442][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_12
+[2020.03.17-20.15.30:443][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:443][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_13
+[2020.03.17-20.15.30:443][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:443][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_15
+[2020.03.17-20.15.30:443][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:443][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_10
+[2020.03.17-20.15.30:443][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:443][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_35
+[2020.03.17-20.15.30:443][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:444][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_31
+[2020.03.17-20.15.30:444][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:444][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_30
+[2020.03.17-20.15.30:444][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:444][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_34
+[2020.03.17-20.15.30:444][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:444][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_33
+[2020.03.17-20.15.30:444][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:444][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_2
+[2020.03.17-20.15.30:445][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:445][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_3
+[2020.03.17-20.15.30:445][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:445][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_4
+[2020.03.17-20.15.30:445][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:445][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_5
+[2020.03.17-20.15.30:445][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:445][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_7
+[2020.03.17-20.15.30:445][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:445][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_8
+[2020.03.17-20.15.30:446][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:446][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_9
+[2020.03.17-20.15.30:446][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:446][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_14
+[2020.03.17-20.15.30:446][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:446][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_19
+[2020.03.17-20.15.30:446][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:446][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_17
+[2020.03.17-20.15.30:447][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:447][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_18
+[2020.03.17-20.15.30:447][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:447][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_20
+[2020.03.17-20.15.30:447][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:447][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_25
+[2020.03.17-20.15.30:447][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:447][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_26
+[2020.03.17-20.15.30:447][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:448][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_27
+[2020.03.17-20.15.30:448][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:448][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_32
+[2020.03.17-20.15.30:448][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:448][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_16
+[2020.03.17-20.15.30:448][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:448][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_23
+[2020.03.17-20.15.30:448][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:448][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_24
+[2020.03.17-20.15.30:449][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:449][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_28
+[2020.03.17-20.15.30:449][755]LogTemp: QUICKLOG: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: %s
+[2020.03.17-20.15.30:449][755]LogFactory: Warning: AFGBuildableSubsystem::WARNING:: A instanced porxy were added without a static mesh. Make sure this is intended. Actor name: Build_PipeHyperStart_C_29
+[2020.03.17-20.15.30:450][755]LogGame: Warning: BP_Golfcart_C_4::BeginPlay, no built with recipe set!
+[2020.03.17-20.15.30:451][755]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2020.03.17-20.15.30:452][755]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2020.03.17-20.15.30:464][755]LogGame: Warning: FGFoliageRemoval_248::Apply(), failed to remove 2 instances
+[2020.03.17-20.15.30:468][755]LogGame: Warning: FGFoliageRemoval_247::Apply(), failed to remove 4 instances
+[2020.03.17-20.15.30:470][755]LogGame: Warning: FGFoliageRemoval_243::Apply(), failed to remove 3 instances
+[2020.03.17-20.15.30:478][755]LogGame: Warning: FGFoliageRemoval_240::Apply(), failed to remove 64 instances
+[2020.03.17-20.15.30:479][755]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.17-20.15.30:574][755]LogLoad: Took 8.952949 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2020.03.17-20.15.30:574][755]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.00, Realtime: 8.28. EpicNetDriver_0
+[2020.03.17-20.15.31:319][755]LogStaticMesh: Allocated 512x512x471 distance field atlas = 117.8Mb, with 768 objects containing 41.4Mb backing data
+[2020.03.17-20.15.31:562][755]LogUObjectHash: Compacting FUObjectHashTables data took  11.67ms
+[2020.03.17-20.15.31:685][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-20.15.31:705][756]LogHttp: Warning: Retry 4 on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.31:707][756]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.10, Realtime: 1.13. EpicNetDriver_0
+[2020.03.17-20.15.31:756][756]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
+[2020.03.17-20.15.31:769][757]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0: request has been successfully processed. URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, HTTP code: 503, content length: 0, actual payload size: 0
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0 Response Header Server: awselb/2.0
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0 Response Header Date: Tue, 17 Mar 2020 20:15:29 GMT
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Type: text/plain; charset=utf-8
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0 Response Header Content-Length: 0
+[2020.03.17-20.15.31:821][759]LogHttp: Warning: 000002691DF30EC0 Response Header Connection: keep-alive
+[2020.03.17-20.15.31:837][760]LogHttp: Warning: Success on https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true
+[2020.03.17-20.15.31:837][760]LogOnline: Warning: OSS: PARSE: HttpResult: 503 Code: 0 Error: Failure ErrorCode=errors.com.epicgames.online.generic.non_json_error_response, Message=An error occurred while communicating with the game servers:
+HTTP 503 response from https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, Raw=
+[2020.03.17-20.15.31:837][760]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-5543498048fa4fdbb295cc92b39b7ba8-7C12AC914D90BD8B1CFF048E7DFC5F91-2D55FF42422F41E09D362A9A9ADA752A code=503 error=Failure ErrorCode=errors.com.epicgames.online.generic.non_json_error_response, Message=An error occurred while communicating with the game servers:
+HTTP 503 response from https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, Raw=
+[2020.03.17-20.15.31:837][760]LogOnline: Warning: OSS: Triggering failed connection status change for service [friends] to status [ServersTooBusy], due to http status [503]
+[2020.03.17-20.15.31:837][760]LogOnline: OSS: Service status updated [Connected] -> [ServersTooBusy]
+[2020.03.17-20.15.31:837][760]LogOnlineFriend: Warning: OSS: ReadFriendsList request failed. Failure ErrorCode=errors.com.epicgames.online.generic.non_json_error_response, Message=An error occurred while communicating with the game servers:
+HTTP 503 response from https://friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/2f96fbc862b4495da389558aeb5288ab?includePending=true, Raw=
+[2020.03.17-20.15.31:837][760]LogOnlineFriend: Warning: OSS: GetFriendsList failed. Failure ErrorCode=errors.com.epicgames.oss.friend.no_friends_list:2f96fbc862b4495da389558aeb5288ab, Message=Unable to find friends lists., Raw=no_friends_list
+[2020.03.17-20.15.32:491][760]LogGame: World Serialization (save): 0.644 seconds
+[2020.03.17-20.15.32:660][760]LogGame: Compression: 0.168 seconds
+[2020.03.17-20.15.32:660][760]LogGame: Write To Disk: 0.001 seconds
+[2020.03.17-20.15.32:667][760]LogGame: Total Save Time took 0.821 seconds
+[2020.03.17-20.15.32:764][765]LogNet: New Dynamic NetSpeed 20000 vs old 20000
+[2020.03.17-20.15.44:331][156]LogOnline: OSS: Service status updated [ServersTooBusy] -> [Connected]
+[2020.03.17-20.15.47:112][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-20.15.52:249][123]LogOnlineFriend: Warning: OSS: GetFriendsList failed. Failure ErrorCode=errors.com.epicgames.oss.friend.no_friends_list:2f96fbc862b4495da389558aeb5288ab, Message=Unable to find friends lists., Raw=no_friends_list
+[2020.03.17-20.16.32:214][ 22]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.17.32:221][781]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.17.32:923][874]LogOnlineFriend: Warning: OSS: GetFriendsList failed. Failure ErrorCode=errors.com.epicgames.oss.friend.no_friends_list:2f96fbc862b4495da389558aeb5288ab, Message=Unable to find friends lists., Raw=no_friends_list
+[2020.03.17-20.17.34:670][102]LogOnlineFriend: Warning: OSS: GetFriendsList failed. Failure ErrorCode=errors.com.epicgames.oss.friend.no_friends_list:2f96fbc862b4495da389558aeb5288ab, Message=Unable to find friends lists., Raw=no_friends_list
+[2020.03.17-20.17.42:984][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-20.17.44:173][337]Closing by request
+[2020.03.17-20.17.44:173][337]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.03.17-20.17.44:183][338]LogNet: World NetDriver shutdown EpicNetDriver_0 [GameNetDriver]
+[2020.03.17-20.17.44:183][338]LogNet: DestroyNamedNetDriver EpicNetDriver_0 [GameNetDriver]
+[2020.03.17-20.17.44:185][338]LogSocketSubsystemEpic: Closing listening socket. SocketAddress=[EG.000296957f194f3d810d88b8d3b268f99e0a4c664c25683456abdf99f94e25b8:7777]
+[2020.03.17-20.17.44:185][338]LogExit: GameNetDriver EpicNetDriver_0 shut down
+[2020.03.17-20.17.44:271][338]GameAnalyticsModule: Display: Loaded GUID 97BBC440-45E3-C0F2-4BB2-538C7D700FEB
+[2020.03.17-20.17.44:271][338]UEOSLog: Warning: [EOS SDK | Plugin] End Player Session...
+[2020.03.17-20.17.44:272][338]UEOSLog: Warning: 97BBC44045E3C0F24BB2538C7D700FEB
+[2020.03.17-20.17.44:274][338]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2020.03.17-20.17.45:342][338]LogSlate: Request Window 'Satisfactory  ' being destroyed
+[2020.03.17-20.17.45:366][338]LogSlate: Window 'Satisfactory  ' being destroyed
+[2020.03.17-20.17.45:366][338]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.17-20.17.45:375][338]LogExit: Preparing to exit.
+[2020.03.17-20.17.45:375][338]LogMoviePlayer: Shutting down movie player
+[2020.03.17-20.17.45:442][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-20.17.45:644][338]LogExit: Game engine shut down
+[2020.03.17-20.17.45:874][338]LogExit: Object subsystem successfully closed.
+[2020.03.17-20.17.45:933][338]LogD3D11RHI: Shutdown
+[2020.03.17-20.17.45:933][338]LogD3D11RHI: CleanupD3DDevice
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.17-20.17.45:934][338]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.17-20.17.46:386][338]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module AIModule (220)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module NavigationSystem (219)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (216)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module WebMMedia (214)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (212)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (210)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (208)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module CharacterAI (206)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module SessionServices (204)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module AnalyticsET (202)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module LevelSequence (200)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (198)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module MovieScene (196)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (194)
+[2020.03.17-20.17.46:387][338]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (192)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (190)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module EditableMesh (188)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (186)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module CableComponent (184)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module AudioCapture (182)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module MediaCompositing (178)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module LinearTimecode (176)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module ImgMedia (174)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module BackChannel (172)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module AppleVision (170)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module AppleImageUtils (168)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (166)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module GeometryCache (164)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module VariantManagerContent (162)
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module EpicP2P (160)
+[2020.03.17-20.17.46:388][338]LogEpicP2P: FEpicSocketsModule::ShutdownModule()
+[2020.03.17-20.17.46:388][338]LogModuleManager: Shutting down and abandoning module RawInput (156)
+[2020.03.17-20.17.46:389][338]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module SteamController (154)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module MediaIOCore (152)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Composure (150)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module LoginFlow (148)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (146)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Rejoin (144)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Hotfix (142)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Lobby (140)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Party (138)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Qos (136)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module EOSBase (134)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module FactoryGame (132)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module GameAnalyticsModule (131)
+[2020.03.17-20.17.46:389][338]GameAnalyticsModule: Display: GameAnalyticsModule has shut down
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module CoffeeCore (129)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (126)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module PhysXVehicles (124)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module ActorSequence (122)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module UdpMessaging (120)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module TcpMessaging (118)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module FacialAnimation (116)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module AnimationSharing (114)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (112)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module AISupportModule (110)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Paper2D (108)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module SignificanceManager (106)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module ApexDestruction (104)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module UEOS (102)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module ReplicationGraph (100)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (98)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (96)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module PacketHandler (94)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (92)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Overlay (88)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module UMG (86)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Slate (84)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module MRMesh (82)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Messaging (80)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (78)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module XAudio2 (76)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Networking (74)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module Core (70)
+[2020.03.17-20.17.46:389][338]LogModuleManager: Shutting down and abandoning module AkAudio (68)
+[2020.03.17-20.17.46:400][338]LogInit: Audiokinetic Audio Device terminated.
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module ImageWrapper (64)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (56)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2020.03.17-20.17.46:400][338]LogModuleManager: Shutting down and abandoning module Media (53)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (48)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module OpenColorIO (46)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module LensDistortion (44)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (40)
+[2020.03.17-20.17.46:406][338]LogOnline: OSS: Mcp Shutdown!
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module XMPP (37)
+[2020.03.17-20.17.46:406][338]LogModuleManager: Shutting down and abandoning module WebSockets (36)
+[2020.03.17-20.17.46:412][338]LogModuleManager: Shutting down and abandoning module HTTP (33)
+[2020.03.17-20.17.46:412][338]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.03.17-20.17.46:412][338]LogHttp: Display: 	verb=[POST] url=[https://api.stathat.com/ez] status=Processing
+[2020.03.17-20.17.46:412][338]LogHttp: Display: 	verb=[DELETE] url=[https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill/eg1~eyJraWQiOiJ0RkMyVUloRnBUTV9FYTNxY09kX01xUVQxY0JCbTlrRkxTRGZlSmhzUkc4IiwiYWxnIjoiUFMyNTYifQ.eyJhcHAiOiJkaWVzZWxfY3JhYiIsInN1YiI6IjJmOTZmYmM4NjJiNDQ5NWRhMzg5NTU4YWViNTI4OGFiIiwiZHZpZCI6IjgxYzU4NDk4MzY4NDBiZTM3NzE3OGE3ODMzYTY3NGViIiwibXZlciI6ZmFsc2UsImNsaWQiOiIwMjYxMjg4MGFhNzc0ZmIyOGUzNzQxZDNlMDE1MDFmZCIsImRuIjoiQmlnTWlzaW8yIiwiYW0iOiJleGNoYW5nZV9jb2RlIiwicCI6ImVOcTFrdDlPd3lBVXh0XC9IOUtaMVRFcXlpMldKVjk3TkZ6alEwMEpLZ2NEcDNPTkx1ODVvb25ZYXZTSndcL24zZjd3QksrZEdSQ0tPMFJnbFlybmdtakE3c2ZpU2RkbFdoZ01ENlRpUU5FUnZoMnhiajlJN0tEd05HaGNJNHdpNENHZSt1emRDUklZdERQdDhhVjIyOWJhWGkyMHB1TmpWcjRKN1hqSEZBeVNyT1FiNHZtZ2QwUVVqclZmOWswbnIxN3FHQVR3M2xUaUVhaGVnNjRcL0NERFRFSGNzSjVDRUVrVEdteWNMYytxNXpGdGRHZ2E5SXQwdjZFeDc4Q0Y2ZHFZZjRseG11QWZJOU9lTklZanhkbTZkSEhcL1NWNnNCa0tIVEdlSnJTOCtNRUdTXC9hOXgxVVwvXC9zWGx2NmxOT0doVVwvZk1rYzFuVnI2VGZ2TitTdlFMWVwvaU1HIiwiaWFpIjoiMmY5NmZiYzg2MmI0NDk1ZGEzODk1NThhZWI1Mjg4YWIiLCJjbHN2YyI6ImRpZXNlbF9jcmFiIiwidCI6InMiLCJpYyI6ZmFsc2UsImV4cCI6MTU4NDUwNDg3OSwiaWF0IjoxNTg0NDc2MDc5LCJqdGkiOiJmOGU3NjFiY2Y1ZjM0YmE1YWJhOTk1MTNiNDU0YWIxYiJ9.ATCr-hWVImAwVWPSEV2K-YfGVRMIzPQx7gQskvj_OnsvVlpsT4o9-2z3MkOYNHstxYWXpDtpf4r0LxD48Xtoftbe] status=Processing
+[2020.03.17-20.17.46:412][338]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.03.17-20.17.46:912][338]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.03.17-20.17.47:415][338]LogModuleManager: Shutting down and abandoning module SSL (32)
+[2020.03.17-20.17.47:415][338]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2020.03.17-20.17.47:415][338]LogModuleManager: Shutting down and abandoning module InstancedSplines (26)
+[2020.03.17-20.17.47:415][338]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module SandboxFile (8)
+[2020.03.17-20.17.47:416][338]LogModuleManager: Shutting down and abandoning module PakFile (6)
+[2020.03.17-20.17.47:419][338]LogModuleManager: Shutting down and abandoning module RSA (5)
+[2020.03.17-20.17.47:419][338]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2020.03.17-20.17.47:426][338]LogExit: Exiting.
+[2020.03.17-20.17.47:437][338]Log file closed, 03/17/20 21:17:47
